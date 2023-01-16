@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
-using UnityEngine.Windows;
+using System.IO;
 
 public class ExportRoutine : MonoBehaviour
 {   
@@ -27,7 +27,7 @@ public class ExportRoutine : MonoBehaviour
         }
 
         // Set up root path and output directory
-        rootPath = System.IO.Directory.GetCurrentDirectory() + "/Output";
+        rootPath = Directory.GetCurrentDirectory() + "/Output";
         if (!Directory.Exists(rootPath))
             Directory.CreateDirectory(rootPath);
 
