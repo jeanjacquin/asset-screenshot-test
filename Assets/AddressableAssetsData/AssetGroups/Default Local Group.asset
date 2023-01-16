@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e626ee20872db484e8a1e48feb45e336
+  m_SerializeEntries:
+  - m_GUID: 344eb8e611bc11c4ab8a6ba37aaa95b2
+    m_Address: Assets/Prefabs/Car-1203-Black.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5d3a1ae7143c94046baa7a95f6a6af85
+    m_Address: Assets/Prefabs/Trashbin-Green.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8098fca850007464f8d2009b637d830d
+    m_Address: Assets/Prefabs/Car-1203-Yellow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 881a2e93b301f2546b3f10903047b8c5
+    m_Address: Assets/Prefabs/Street-Lamp-Tall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9df7d2345e71eda449c4127f351ebbff
+    m_Address: Assets/Prefabs/Super-Spitfire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c50724b1be367a444a954ca9a7480d0e
+    m_Address: Assets/Prefabs/Street-Lamp-Short.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e5127f0239557744783ff130c1fc43f0
+    m_Address: Assets/Prefabs/Train-Industrial-Dr14.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2e9438640fdea0c4d9b23d74b820bbc9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c38d26fd14fa4fe488ec3eb00f00b122, type: 2}
+    - {fileID: 11400000, guid: dbf2fa2c856fa8e4586562c48367a7e6, type: 2}
